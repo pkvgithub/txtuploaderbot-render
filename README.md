@@ -19,8 +19,8 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/pkvgithub/txtuploaderbot-render)
 
 ## Deploy To Cloud Shell Editor
-<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AshutoshGoswami24/text-leech-bot&tutorial=help/cloud.google.mb" >
-  <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/pkvgithub/txtuploaderbot-render&tutorial=help/cloud.google.mb" >
+  <img src="https://github.com/pkvgithub/txtuploaderbot-render/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
 
 ## Deploy To VPS
 `git clone https://github.com/AshutoshGoswami24/text-leech-bot`
